@@ -1,6 +1,4 @@
 <?
-if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
-$arComponentParameters = array(
-    "GROUPS" => array(),
-    'PARAMETERS' => array(),
-);
+$MESS["MESSAGE_SUCCESS"] = "Элемент успешно добавлен";
+$MESS["MESSAGE_ERROR"] = "Ошибка при добавлении справочной информации";
+?>
